@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { FirstComponent } from './components/myFirstComponent';
 
 function App() {
   return (
@@ -16,9 +17,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React with Typescript
         </a>
       </header>
+      <FirstComponent/>
     </div>
   );
 }
