@@ -1,3 +1,6 @@
 export const YAComp = () => {
-    return <h3>YA Component</h3>
+    return (<div>
+                <h3>YA Component</h3>
+                <p>A para</p>
+            </div>)
 }
