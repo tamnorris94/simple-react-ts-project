@@ -1,3 +1,8 @@
 export const AnotherComponent = () => {
-    return <h3>Another Component</h3>
+    return (
+    <div>
+        <h3>Another Component</h3>
+        <p>A para</p>
+    </div>
+    )
 }
