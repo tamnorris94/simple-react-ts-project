@@ -3,7 +3,7 @@ export const YAComp = () => {
     <div>
         <h3>YA Component</h3>
         <p>A para</p>
-        <p>Added in tambr4</p>
+        <p>Added in tambr4 shfkhskfhskhfk</p>
     </div>
     )
 }
