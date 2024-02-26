@@ -2,8 +2,9 @@ export const YAComp = () => {
     return (
     <div>
         <h3>YA Component</h3>
-        <p>A para</p>
+        <p>Adding another paragraph</p>
         <p>Added in tambr4 shfkhskfhskhfk</p>
+        <p>Nuv para</p>
     </div>
     )
 }
