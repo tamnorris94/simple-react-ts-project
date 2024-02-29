@@ -1,3 +1,7 @@
+const doNothing = () => {
+    
+}
+
 export const AnotherComponent = () => {
     return (
     <div>
