@@ -8,4 +8,4 @@ export const AnotherComponent = () => {
         <p>Add a para while in main</p>
     </div>
     )
-}
+}   
