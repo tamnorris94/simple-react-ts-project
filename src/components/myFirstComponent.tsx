@@ -1,3 +1,5 @@
 export const FirstComponent = () => {
-    return <h3>First Component</h3>
+    return (<div>
+        <h3>First Component</h3>
+    </div>)
 }
