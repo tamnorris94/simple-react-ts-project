@@ -5,6 +5,7 @@ export const YAComp = () => {
         <p>Adding another paragraph</p>
         <p>Added in tambr4 shfkhskfhskhfk</p>
         <p>Nuv para</p>
+        <p>yeah para</p>
     </div>
     )
 }
