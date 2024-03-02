@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { FirstComponent } from './components/myFirstComponent';
+import { ThisComponent } from './components/myFirstComponent';
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
           Learn React with Typescript
         </a>
       </header>
-      <FirstComponent/>
+      <ThisComponent/>
     </div>
   );
 }
