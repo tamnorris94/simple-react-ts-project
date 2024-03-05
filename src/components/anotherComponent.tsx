@@ -11,6 +11,7 @@ export const AnotherComponent = () => {
         <p>Yet another para</p>
         <p>Add a para while in main</p>
         <p>Add poopy</p>
+        <p>Some bollocks!!!</p>
     </div>
     )
 }   
