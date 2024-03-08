@@ -5,7 +5,7 @@ const doNothing = () => {
 export const AnotherComponent = () => {
     return (
     <div>
-        <h3>Anover Component</h3>
+        <h3>A New Heading</h3>
         <p>A paragraph</p>
         <p>Woops added this as well.</p>
         <p>Yet another para</p>
