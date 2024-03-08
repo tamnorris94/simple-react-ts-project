@@ -1,7 +1,7 @@
 export const AComponent = () => {
     return (
     <div>
-        <h3>Stuff goes in here</h3>
+        <h3>Tambr5</h3>
     </div>
     )
 }
