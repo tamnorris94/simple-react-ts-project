@@ -8,6 +8,7 @@ export const AComponent = () => {
         <p>Lets add a paragraph!!!!</p>
         <p>Mongo .......</p>
         <p>New Stuff ...........</p>
+        <p>Para added by TamTwo</p>
     </div>
     )
 }
