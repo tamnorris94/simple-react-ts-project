@@ -6,6 +6,7 @@ export const AComponent = () => {
         <h3>Tambr5</h3>
         <h3>Tambr5</h3>
         <p>Lets add a paragraph!!!!</p>
+        <p>Mongo .......</p>
     </div>
     )
 }
